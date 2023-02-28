@@ -1,7 +1,7 @@
-[![@jairolan's Holopin board](https://holopin.io/api/user/board?user=jairolan)](https://holopin.io/@jairolan)
-
 Hi 👋 My name is Jairo Olan
 ===========================
+
+[![@jairolan's Holopin board](https://holopin.io/api/user/board?user=jairolan)](https://holopin.io/@jairolan)
 
 Software Engineer
 -----------------
