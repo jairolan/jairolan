@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairolan&label=Profile%20views&color=0e75b6&style=flat" alt="jairolan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jairolan" target="blank"><img src="https://img.shields.io/twitter/follow/jairolan?logo=twitter&style=for-the-badge" alt="jairolan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jairo_olan" target="blank"><img src="https://img.shields.io/twitter/follow/jairolan?logo=twitter&style=for-the-badge" alt="jairolan" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter and JavaScript**
 
