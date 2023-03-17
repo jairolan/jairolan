@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jairolan&" alt="jairolan" /></p>
 
-[![@jairolan's Holopin board](https://holopin.io/api/user/board?user=jairolan)](https://holopin.io/@jairolan)
+
